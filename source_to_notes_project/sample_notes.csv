@@ -1,0 +1,6 @@
+note_id,claim,source_file,page_number,evidence_snippet,status
+1,Jupyter helps organize code,paper.pdf,2,Example evidence,
+2,GitHub stores projects,paper.pdf,4,Example evidence,
+3,Python automates checking,,6,Example evidence,
+4,,paper.pdf,,,
+5,Pandas creates data tables,paper.pdf,-1,Example evidence,
